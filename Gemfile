@@ -10,6 +10,7 @@ end
 group :production do
   gem 'pg'
 end
+
 gem 'carrierwave'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
